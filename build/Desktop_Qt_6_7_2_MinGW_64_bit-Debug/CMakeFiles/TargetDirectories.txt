@@ -1,0 +1,7 @@
+C:/Users/USUARIO/Desktop/Info 2/Practica 3 Qt/Practica3F/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/Practica3F.dir
+C:/Users/USUARIO/Desktop/Info 2/Practica 3 Qt/Practica3F/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/USUARIO/Desktop/Info 2/Practica 3 Qt/Practica3F/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/USUARIO/Desktop/Info 2/Practica 3 Qt/Practica3F/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/USUARIO/Desktop/Info 2/Practica 3 Qt/Practica3F/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/USUARIO/Desktop/Info 2/Practica 3 Qt/Practica3F/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/USUARIO/Desktop/Info 2/Practica 3 Qt/Practica3F/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
